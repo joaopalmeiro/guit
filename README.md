@@ -40,3 +40,6 @@ This CLI was created with [Cookiecutter](https://github.com/audreyr/cookiecutter
 ## Notes
 
 - [Click 7 documentation](https://click.palletsprojects.com/en/7.x/)
+- Delete a Git tag ([source](https://gist.github.com/mobilemind/7883996)):
+  - `git tag -d v0.1.0` (local)
+  - `git push origin :refs/tags/v0.1.0` (remote)
