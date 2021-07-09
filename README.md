@@ -1,6 +1,8 @@
 # guit
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/joaopalmeiro/guit)
+[![PyPI](https://img.shields.io/pypi/v/guit)](https://pypi.org/project/guit/)
+[![Release](https://github.com/joaopalmeiro/toppics/actions/workflows/release.yml/badge.svg)](https://github.com/joaopalmeiro/guit/actions/workflows/release.yml)
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
