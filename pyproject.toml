@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "guit"
-version = "0.0.1"
+version = "0.1.0"
 description = "A Python CLI to open a web page from a Git repository."
 authors = ["João Palmeiro <joaommpalmeiro@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/joaopalmeiro/guit"
 repository = "https://github.com/joaopalmeiro/guit"
-keywords = ["guit", "cli"]
+keywords = ["guit", "cli", "git", "browser", "github", "gitlab"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Environment :: Console",
