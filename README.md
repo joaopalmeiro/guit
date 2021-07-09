@@ -1,9 +1,15 @@
 # guit
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/joaopalmeiro/guit)
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A Python CLI to open a web page from a Git repository.
+A Python CLI to open a web page from a [Git](https://git-scm.com/) repository.
+
+## References
+
+- Carl-Fredrik Arvidson's [git-open](https://github.com/cfarvidson/git-open) CLI
+- Aaron O'Mullan's [giturlparse.py](https://github.com/FriendCode/giturlparse.py) package
 
 ## Development
 
@@ -28,3 +34,7 @@ A Python CLI to open a web page from a Git repository.
 - [Bandit](https://bandit.readthedocs.io/)
 
 This CLI was created with [Cookiecutter](https://github.com/audreyr/cookiecutter) and the [`joaopalmeiro/cookiecutter-templates/python-cli`](https://github.com/joaopalmeiro/cookiecutter-templates) project template.
+
+## Notes
+
+- [Click 7 documentation](https://click.palletsprojects.com/en/7.x/)
